@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #f5fffa;
+  overflow: hidden;
+}
+.main-container {
+  position: relative;
+  top: 10px;
+  left: -25px;
+}
+.container {
+  margin: 90px auto 0 auto;
+  max-width: 180px;
+}
+
+.apple {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(#6e6e6e, #505050, #1d1d1d);
+  width: 208px;
+  height: 198px;
+  position: absolute;
+  border-radius: 35% 35% 41% 41% / 42% 42% 75% 75%;
+}
+
+.apple:before {
+  background: #6f6f6f;
+  content: '';
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  margin: -51px 0 0 100px;
+  border-radius: 100px 0;
+  z-index: 5;
+}
+
+.apple:after {
+  background: #f5fffa;
+  content: '';
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  margin: 28px 0 0 174px;
+  border-radius: 50%;
+  transform: rotate (-53deg);
+  z-index: 4;
+  box-shadow: -127px -109.5px 0 #f5fffa, -118px -107px 0 #f5fffa,
+    -115.5px -102.5px 0 #f5fffa, -105.5px -109.5px 0 #f5fffa,
+    -105px -109.5px 0 #f5fffa, -129px 166px 0 #f5fffa, -107.5px 166px 0 #f5fffa,
+    -119px 161px 0 #f5fffa;
+}
+
+h1 {
+  position: absolute;
+  text-align: center;
+  margin-top: 210px;
+  margin-left: 5px;
+  font-size: 70px;
+  display: inline-block;
+  z-index: 6;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  color: #1b1b1b;
+}
+.credit-container {
+  position: relative;
+  top: 32pc;
+  left: 40pc;
+}
+.credit-text {
+  font-size: 25px;
+  font-family: Pacifico;
+  font-weight: 100;
+}
+button {
+  position: relative;
+  top: 29.5pc;
+  left: 0.5pc;
+  border: none;
+  border-radius: 8px;
+  background-color: #272b33;
+  font-size: 20px;
+  color: white;
+  font-family: sans-serif;
+}
+img {
+  background-color: white;
+  border-radius: 20px;
+}
+text {
+  position: relative;
+  bottom: 6px;
+}
