@@ -1,8 +1,8 @@
 # Apple Logo
-### This is the Apple Logo Created using HTML and CSS only.
+### This is the Apple Logo Re-Created using HTML and CSS only.
 
 ## Credit :
-### Logo re-designed HTML and CSS Code by : Sujay Mukherjee.
+### Logo re-created HTML and CSS Code by : Sujay Mukherjee.
 
 ## Connect with me :
 ### Follow me in : [Facebook](https://www.facebook.com/profile.php?id=100092647425033)
