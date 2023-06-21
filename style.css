@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #f5fffa;
+  background: #FFFFFF;
   overflow: hidden;
 }
 .main-container {
@@ -65,7 +65,7 @@ h1 {
 .credit-container {
   position: relative;
   top: 32pc;
-  left: 40pc;
+  left: 20pc;
 }
 .credit-text {
   font-size: 25px;
