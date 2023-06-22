@@ -4,6 +4,9 @@
 ## Credit :
 ### Logo re-created HTML and CSS Code by : Sujay Mukherjee.
 
+## Remember :
+### Press 'CTRL' + 'O' || 'Shift' + 'O' || 'Alt' + 'O' || to redirect on website of Apple.
+
 ## Connect with me :
 ### Follow me in : [Facebook](https://www.facebook.com/profile.php?id=100092647425033)
 ### Follow me in : [GitHub](https://github.com/devsujay19)
